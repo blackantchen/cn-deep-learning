@@ -1,3 +1,4 @@
 *.gz
 
-cifar-10-batches-py/
+image-classification/cifar-10-batches-py/
+image-classification/*.p
