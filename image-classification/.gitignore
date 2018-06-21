@@ -2,5 +2,7 @@
 
 cifar-10-batches-py/
 __pycache__/
+.ipynb_checkpoints/
 
 *.p
+*.pyc
