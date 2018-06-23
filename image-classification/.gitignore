@@ -1,4 +1,8 @@
 *.gz
+checkpoint
+image_classification.data-00000-of-00001
+*.index
+*.meta
 
 cifar-10-batches-py/
 __pycache__/
